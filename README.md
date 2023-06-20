@@ -5,8 +5,13 @@
 <html>
 <head>
   
-<title>Page Title</title>
-<style>
-  body {background-color: powderblue;}
-</body>
-</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Page Title</title>
+  <style>
+    body {background-color: powderblue;}
+  </style>
+</head>  
+<body>
+
